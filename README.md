@@ -1,1 +1,1 @@
-﻿# link to live preview: https://react-portfolio-website-ecru.vercel.app/
+Link to live preview: https://react-portfolio-website-ecru.vercel.app/
