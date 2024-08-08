@@ -242,6 +242,28 @@ export const projects = [
     github: "https://github.com/jimohsegun1/reactPortfolioWebsite",
     webapp: "https://react-portfolio-website-ecru.vercel.app/",
   },
+   {
+    id: 0,
+    title: "E-commerce App",
+    date: "Sept 2023 - Oct 2023",
+    description:
+      "e-commerce platform, designed to provide a seamless shopping experience for users and robust management features for administrators. Our application combines intuitive user interfaces with powerful backend functionalities to cater to both customers and store managers.",
+    image:
+      "https://blog-frontend.envato.com/cdn-cgi/image/width=2560,quality=75,format=auto/uploads/sites/2/2022/04/E-commerce-App-JPG-File-scaled.jpg",
+    tags: [
+      "Eslint",
+      "CI/CD",
+      "React Js",
+      "Tailwind css"
+      "MongoDb",
+      "Node Js",
+      "Express Js",
+      "RTK Query",
+    ],
+    category: "web app",
+    github: "https://github.com/jimohsegun1/Estore",
+    webapp: "https://estore-7fy8.onrender.com/",
+  },
   {
     id: 0,
     title: "RealestateWebApp",
