@@ -254,7 +254,7 @@ export const projects = [
       "Eslint",
       "CI/CD",
       "React Js",
-      "Tailwind css"
+      "Tailwind css",
       "MongoDb",
       "Node Js",
       "Express Js",
