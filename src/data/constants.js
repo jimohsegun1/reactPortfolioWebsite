@@ -230,7 +230,7 @@ export const projects = [
   {
     id: 0,
     title: "portfolioWebapp",
-    date: "Dec 2023 - Jan 2023",
+    date: "Dec 2023",
     description:
       "An innovative React-based web application meticulously crafted to showcase your professional journey and technical expertise. This dynamic portfolio platform offers a visually appealing and user-friendly interface, allowing you to present your skills, projects, and achievements in a compelling way.",
     image:
@@ -250,7 +250,7 @@ export const projects = [
    {
     id: 0,
     title: "E-commerce App",
-    date: "Sept 2023 - Oct 2023",
+    date: "Sept 2024",
     description:
       "e-commerce platform, designed to provide a seamless shopping experience for users and robust management features for administrators. Our application combines intuitive user interfaces with powerful backend functionalities to cater to both customers and store managers.",
     image:
