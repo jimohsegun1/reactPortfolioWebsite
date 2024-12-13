@@ -272,7 +272,7 @@ export const projects = [
   {
     id: 0,
     title: "RealestateWebApp",
-    date: "Sept 2023 - Oct 2023",
+    date: "Sept 2023",
     description:
       "A mern stack web app that offers an efficient search tool to filter properties by location, price, size, and other key features, making it easier for buyers and renters to find their perfect home or commercial space. Users can create accounts to save favorite listings, schedule viewings, and directly contact agents.",
     image:
@@ -293,7 +293,7 @@ export const projects = [
   {
     id: 1,
     title: "TodoWebApp",
-    date: "Jun 2023 - Aug 2023",
+    date: "Jun 2023",
     description:
       "A CRUD user-friendly web application built to manage your daily tasks seamlessly. Leveraging the MERN stack, it combines the robust capabilities of MongoDB for data storage, Express.js for server-side logic, React for a dynamic and responsive user interface, and Node.js for server-side scripting.A CRUD",
     image:
@@ -314,7 +314,7 @@ export const projects = [
   {
     id: 2,
     title: "ShoppingCart",
-    date: "Oct 2022 - Present",
+    date: "Oct 2022",
     description:
       " ShoppingCart is a dynamic and responsive shopping cart application designed to offer a seamless online shopping experience. Built with the power of React, this web application is engineered to provide a fast, intuitive, and user-friendly interface that caters to both shoppers and store owners.",
     image:
@@ -331,7 +331,7 @@ export const projects = [
   {
     id: 2,
     title: "BatteryWebapp",
-    date: "Oct 2022 - Nov",
+    date: "Oct 2022",
     description:
       "BatteryWebapp is an innovative mobile application dedicated to optimizing your device's battery management, ensuring you stay charged and connected throughout your day. This user-friendly app offers a range of features designed to enhance battery life and keep you informed about your device's power usage.",
     image:
@@ -348,7 +348,7 @@ export const projects = [
   {
     id: 2,
     title: "SailWeatherapp",
-    date: "Oct 2022 - Nov",
+    date: "Nov 2022",
     description:
       "SailWeatherapp is an innovative weather application designed to deliver accurate and up-to-date weather information tailored to your location. This user-friendly app provides a seamless experience for users to stay informed about the current weather conditions, forecasts, and essential meteorological details.",
     image:
@@ -386,7 +386,7 @@ export const projects = [
   {
     id: 3,
     title: "Androidapp",
-    date: "Dec 2020 - Jan 2021",
+    date: "Jan 2021",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat mollit anim id est laborum.",
     image:
