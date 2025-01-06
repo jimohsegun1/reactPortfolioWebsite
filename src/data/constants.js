@@ -364,12 +364,12 @@ export const projects = [
   },
   {
     id: 0,
-    title: "Tourzim",
+    title: "Medicare",
     date: "Nov 2023",
     description:
-      "Tourzim is a dynamic tour application designed to elevate your travel experiences by providing a seamless and interactive platform for planning and enjoying your journeys. Whether you're a seasoned globetrotter or a first-time explorer, ExploreVista offers an intuitive interface to discover, plan, and relish your adventures.",
+      "As part of my graduation at SAIL Innovation Lab for the completion of the Fullstack Web Development program, I developed a Medicare Web App. This project aimed to streamline the process of booking and managing doctor's appointments, providing an efficient and user-friendly platform for both patients and healthcare providers. It also featured a secure payment system using Stripe for processing payments.",
     image:
-      "https://images.pexels.com/photos/2161467/pexels-photo-2161467.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "https://media.istockphoto.com/id/1755134857/photo/man-arriving-to-the-hospital-and-talking-to-a-nurse-at-the-front-desk.jpg?s=612x612&w=is&k=20&c=GOuXeRZXsrZOMYdCXJg9vhYGgnMQV4jNfWYu9LK1Kdw=",
     tags: [
       "React",
       "Tailwind",
@@ -379,8 +379,8 @@ export const projects = [
       "Git"
     ],
     category: "web app",
-    github: "https://github.com/jimohsegun1/tourapp",
-    webapp: "https://tourzim.netlify.app/",
+    github: "https://github.com/jimohsegun1/MediCare",
+    webapp: "https://medi-care-three.vercel.app/",
   },
   {
     id: 3,
