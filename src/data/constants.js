@@ -266,7 +266,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/jimohsegun1/EEshop",
-    webapp: "https://e-eshop.vercel.app/",
+    webapp: "https://e-eshop-frontend.vercel.app/",
   },
   {
     id: 0,
