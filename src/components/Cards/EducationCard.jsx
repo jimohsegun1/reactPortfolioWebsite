@@ -75,6 +75,7 @@ const Top = styled.div`
 
 const Image = styled.img`
     height: 50px;
+    width: 50px;
     background-color: #000;
     border-radius: 10px;
     margin-top: 4px;
