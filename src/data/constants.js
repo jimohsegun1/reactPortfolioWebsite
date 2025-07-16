@@ -339,7 +339,7 @@ export const projects = [{
         title: "SailWeatherapp",
         date: "Nov 2022",
         description: "SailWeatherapp is an innovative weather application designed to deliver accurate and up-to-date weather information tailored to your location. This user-friendly app provides a seamless experience for users to stay informed about the current weather conditions, forecasts, and essential meteorological details.",
-        image: "https://res.cloudinary.com/practicaldev/image/fetch/s--iZQt_59N--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g181cshw7tn5fxymy3x2.jpg",
+        image: "https://images.unsplash.com/photo-1580193769210-b8d1c049a7d9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHdlYXRoZXJ8ZW58MHx8MHx8fDA%3D",
         tags: ["Html", "Css", "Javascript", "Git"],
         category: "web app",
         github: "https://github.com/jimohsegun1/sailweather_prjct",
