@@ -8,7 +8,7 @@ export const Bio = {
     ],
     description: "I'm a passionate Frontend, MERN Stack web and Mobile Developer who loves building fast, scalable, and user - friendly applications using tools like Javascript,Python, React, React - Native, Next.js, Typescript, Node js,and Express js, as well as Python Web Scraping. I enjoy turning complex ideas into smooth, cross - platform experiences,I thrive when working closely with designers, backend engineers, and product teams to bring great products to life. I'm also deeply curious about Machine Learning and excited by the potential of AI - driven technologies.",
     github: "https://github.com/jimohsegun1",
-    resume: "https://drive.google.com/file/d/1UbIRTOMFjYsvhyEU7cpup3e3DQ8LV8Ub/view?usp=sharing",
+    resume: "https://drive.google.com/file/d/1iIADszXyYGIbUovNF4daDUIdmhU2Ug2r/view?usp=drive_link",
     linkedin: "https://www.linkedin.com/in/jimoh-segun-jeremiah-919b05125/",
     twitter: "https://twitter.com/Jimohsegunj",
     insta: "https://www.instagram.com/jimohsegunj/",
